@@ -2055,7 +2055,8 @@ ol {
 	height: 5rem;
 	width: 5rem;
 	margin-left:6%;
-	margin-top: 70%;
+	margin-top: 6%;
+	padding: 5px;
 	position: fixed;
 	z-index: 1000;
 
